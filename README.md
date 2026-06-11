@@ -106,3 +106,4 @@ Este projeto foi desenvolvido com dedicação pela equipe:
 * **Leonardo Augusto**
 * **Adan Melo**
 
+* obs: Foi utilizado ia generativa, usando o protocolo GDD para uma melhor implementação, qualidade e dinamismo do projeto.
