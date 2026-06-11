@@ -105,4 +105,4 @@ Este projeto foi desenvolvido com dedicação pela equipe:
 
 * **Leonardo Augusto**
 * **Adan Melo**
-* **Arthur Moraes**
+
